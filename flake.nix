@@ -11,7 +11,8 @@
       in
       {
         devShell = with pkgs; mkShell {
-          jupyter evcxr
+          buildInputs = [
+            jupyter evcxr julia-bin
           ];
         };
       }
