@@ -92,3 +92,4 @@ Q:f(x_2)=f(x_1 + Delta h) $
 #expand(`(a-b)^2`)
 
 // $ Delta y / Delta x = (f(x_2)=f(x_1)) / (Delta x) = (f(x_2)-f(x_1)) / (Delta x) $
+
